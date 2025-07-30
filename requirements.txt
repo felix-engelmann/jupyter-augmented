@@ -1,0 +1,2 @@
+jupyter-resource-usage
+jupyterlab-h5web
