@@ -1,3 +1,5 @@
 jupyter-resource-usage
 jupyterlab-h5web
 htop
+ipympl
+nb_conda_kernels
